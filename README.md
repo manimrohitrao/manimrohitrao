@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manimrohitrao
 - 👀 I’m interested in ...Coding
 - 🌱 I’m currently learning ...Data Analyst course by Google
-- 💞️ I’m looking for a mentor
+- I’m looking for a mentor
 
 <!---
 manimrohitrao/manimrohitrao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
